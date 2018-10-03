@@ -1,0 +1,6 @@
+-> Ter qemu instalado - sudo apt install qemu
+-> Executar - make qemu
+-> Rodar o arquivo de teste - teste
+Foram modificados os arquivos proc.c, proc.h e todos os demais que se utilizam da função fork(). Adicionado o arquivo teste.c
+
+Pode ser necessário dar permissões aos arquivos. Para isso utilize 'sudo chmod 777 *'
